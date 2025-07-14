@@ -176,9 +176,12 @@ void updateDisplay(byte matrixNum) {
 - Custom IoT interfaces using displays
 
 ---
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## 👥 Collaborators
 
-Special thanks to [Naveen Kumar](https://github.com/Navz360) for engineering support and prototyping efforts.
+Special thanks to [Naveen Kumar](https://github.com/naveendev360) for engineering support and prototyping efforts.
 
 ---
