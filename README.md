@@ -182,24 +182,3 @@ void updateDisplay(byte matrixNum) {
 Special thanks to [Naveen Kumar](https://github.com/Navz360) for engineering support and prototyping efforts.
 
 ---
-
-## 📣 Social Media Post (LinkedIn-ready)
-
-```
-🌐 IoT Project: Arduino Nano – SPI with Dual Slaves + Bluetooth Wireless Transmission 📲💡
-
-Proud to share our recent IoT prototype using Arduino Nano as an SPI master, controlling two MAX7219 LED matrix displays and receiving data wirelessly via Bluetooth (HC-05). This system allows real-time, wireless control from a mobile or PC terminal.
-
-🔧 Highlights:
-✅ Arduino Nano as central controller
-✅ Dual 8x8 LED matrices via SPI
-✅ Bluetooth terminal input
-✅ Real-time, wireless data update
-
-🌍 Applications: dashboards, sensor display, smart signage
-
-🧠 Skills: SPI, UART, wireless comms, embedded systems
-
-Grateful to collaborate with Naveen Kumar on this exciting journey! 🙌
-
-#IoT #ArduinoNano #EmbeddedSystems #Bluetooth #MAX7219 #SPI #WirelessCommunication #TechProjects #MakerMovement
